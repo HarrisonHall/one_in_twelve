@@ -1,0 +1,599 @@
+Total Cities 12893
+Population Cities 11276
+Total Population 2455391824
+Total Volcanoes 426
+Potchefstroom is near SP
+Polokwane is near Nikko-Shirane
+Thohoyandou is near Rasshua
+Kapiri Mposhi is near Lereboleng
+Bulawayo is near Asama
+Atbasar is near Acamarachi
+Atbasar is near Barrier
+Atasu is near SP
+Embi is near Coatepeque
+Esil is near Ungaran
+Shalqar is near Atitlán
+Bayghanin is near SP
+Beyneu is near Fuerteventura
+Petropavlovsk is near Cotopaxi
+Arys is near Bolshoi
+Xam Nua is near Acamarachi
+Xam Nua is near Fogo
+Xam Nua is near Oraefajokull
+Batticaloa is near Guallatiri
+El Agheila is near Bezymianny
+Settat is near Mauna
+Andoany is near Menan
+Ambanja is near Guguan
+Mananjary is near Visoke
+Bafoulabé is near Moti
+Hodrogo is near Shishaldin
+Ticul is near Barrier
+Ticul is near Chikurachki
+Tlaxiaco is near SP
+Reynosa is near Rasshua
+Parras is near Kikai
+Tenosique is near Agua
+Espungabera is near Ijen
+Espungabera is near Telica
+Angoche is near Ol
+Rundu is near Papandayan
+Iwo is near Oku
+Iseyin is near Ungaran
+Oyo is near Acamarachi
+Oyo is near Barrier
+Oyo is near Fogo
+Oyo is near Oraefajokull
+San Juan del Sur is near Katmai
+Maastricht is near Akita
+Kristiansand is near Westdahl
+Hammerfest is near Chikurachki
+Namsos is near Rudakov
+Kaikoura is near Fogo
+Kaikoura is near Oraefajokull
+Huaura is near Concepción
+San Ramon is near Guallatiri
+Ica is near Cameroon
+Puquio is near Nantai
+Puerto Maldonado is near Kutcharo
+Sohano is near Jefferson
+Pagadian is near Acamarachi
+Pagadian is near Fogo
+Pagadian is near Oraefajokull
+Tuguegarao is near Akademia
+Bannu is near Acamarachi
+Bannu is near Barrier
+Bannu is near Fogo
+Bannu is near Oraefajokull
+Mirput Khas is near Yantarni
+Zielona Góra is near Chimborazo
+Portalegre is near Mauna
+Portimão is near Reventador
+San Juan Bautista is near Bachelor
+San Juan Bautista is near Bolshoi
+Omsk is near Egmont
+Omsk is near Telica
+Nefteyugansk is near Bamus
+Shira is near Kone
+Toguchin is near Adams
+Surgut is near SP
+Vologda is near Fantale
+Orenburg is near Westdahl
+Svetogorsk is near Diamond
+Staraya Russa is near Guallatiri
+Krasnokamensk is near Suswa
+Buynaksk is near Adwa
+Makhachkala is near Sanford
+Tver is near Prevo
+Perm is near Chimborazo
+Verkhnyaya Salda is near Concepción
+Verkhniy Ufaley is near Frosty
+Kotlas is near SP
+Bakal is near Bachelor
+Glazov is near Acamarachi
+Glazov is near Barrier
+Glazov is near Fogo
+Glazov is near Oraefajokull
+Ulan Ude is near Fogo
+Ulan Ude is near Oraefajokull
+Savetskaya Gavan is near Peuet
+Lesozavodsk is near Alaid
+Tobolsk is near Rudakov
+Vorkuta is near Ijen
+Nogliki is near Acamarachi
+Nogliki is near Barrier
+Nogliki is near Fogo
+Nogliki is near Oraefajokull
+Terbyas is near Mauna
+Verkhoyansk is near SP
+Krasnogorsk is near Kerinci
+Nevelsk is near Wrangell
+Tura is near Chimborazo
+Byumba is near SP
+Al Hillah is near Cameroon
+As Sulayyil is near Chikurachki
+Sakakah is near Yake-dake
+Dawmat al Jandal is near Bachelor
+Kadugli is near Egmont
+Kadugli is near Telica
+Žilina is near Diky
+Kenema is near Chikurachki
+Kaolack is near Acamarachi
+Kaolack is near Barrier
+Kaolack is near Fogo
+Juba is near Nevis
+Ar Raqqah is near Pagan
+Dar'a is near Akhtang
+Idlib is near Zhupanovsky
+Al Ladhiqiyah is near Vilyuchik
+Aleppo is near Karthala
+Mongo is near Erta
+Nakhon Phanom is near Anatahan
+Pathum Thani is near Guallatiri
+Nakhon Nayok is near Concepción
+Konibodom is near Alamagan
+Koneurgench is near Karthala
+Tataouine is near Fogo
+Tataouine is near Oraefajokull
+Kayseri is near Suwanose-jima
+Karabük is near Kick
+Samandagi is near SP
+Magong is near SP
+Puzi is near Hierro
+Musoma is near Piton
+Ifakara is near Peuet
+Kramatorsk is near Bolshoi
+Kamyanets-Podilskyy is near Egmont
+Fray Bentos is near Ubinas
+Khujayli is near SP
+Santa Rita is near Langila
+San Fernando de Apure is near Westdahl
+La Asunción is near Bachelor
+Thái Bình is near Iliniza
+Nam Định is near Acamarachi
+Nam Định is near Fogo
+Nam Định is near Oraefajokull
+Hue is near Tao-Rusyr
+Apia is near El
+Umm al Qaywayn is near Purace
+Aybak is near Srednii
+Baghlan is near Bolshoi
+Saint John's is near San
+Ambriz is near SP
+Mendoza is near Nevis
+Choele Choel is near Egmont
+Choele Choel is near SP
+Telsen is near Acamarachi
+Telsen is near Barrier
+Chivilcoy is near Mashkovtsev
+Proserpine is near Egmont
+Proserpine is near SP
+Forbes is near Bezymianny
+Singleton is near Bezymianny
+Griffith is near Grímsvötn
+Tweed Heads is near Pinacate
+Echuca is near Acamarachi
+Echuca is near Fogo
+Echuca is near Oraefajokull
+Barcaldine is near Acamarachi
+Barcaldine is near Fogo
+Barcaldine is near Oraefajokull
+Oatlands is near Chimborazo
+Atherton is near Acamarachi
+Atherton is near Barrier
+Atherton is near Fogo
+Atherton is near Oraefajokull
+Muswellbrook is near Ruiz,
+Dhaka is near Yake-dake
+Orodara is near Egmont
+Orodara is near Telica
+Djibo is near Chikurachki
+Stara Zagora is near SP
+Pleven is near Iraya
+Uyuni is near Bachelor
+Riberalta is near Barrier
+Riberalta is near Fogo
+Portachuelo is near Sete
+Apucarana is near Fogo
+Apucarana is near Mauna
+Apucarana is near Oraefajokull
+Campo Grande is near Bachelor
+Rosário do Sul is near Ambrym
+Canoas is near Tenerife
+Pires do Rio is near Mauna
+Americana is near Furnas
+Tucano is near Mauna
+Carpina is near SP
+Patos is near Antisana
+Teresina is near 	Stratovolcano
+Salgueiro is near Nasu
+Ponte Nova is near SP
+Santarém is near Lopevi
+São Paulo is near Acamarachi
+São Paulo is near Fogo
+São Paulo is near Oraefajokull
+Antigonish is near Concepción
+New Glasgow is near Iliniza
+Holman is near Westdahl
+Pembroke is near Toba
+Fort Smith is near Hualalai
+La Ronge is near Coatepeque
+La Ronge is near Unzen
+Saint John is near Pauzhetka
+Boma is near Wrangell
+Bunia is near Acamarachi
+Bunia is near Barrier
+Bunia is near Fogo
+Likasi is near Chikurachki
+Bangassou is near Egmont
+Bangassou is near Telica
+San-Pedro is near Cameroon
+Valparaíso is near Shiretoko-Iwo-zan
+Villarica is near Bolshoi
+Villarica is near SP
+Coihaique is near Bolshoi
+Chillán is near Talang
+Mbe is near Acamarachi
+Mbe is near Fogo
+Mbe is near Oraefajokull
+Abong Mbang is near Khodutka
+Yishui is near Akademia
+Mishan is near Acamarachi
+Mishan is near Barrier
+Mishan is near Fogo
+Mishan is near Oraefajokull
+Huainan is near Sollipulli
+Hangu is near Chikurachki
+Yanji is near Baker
+Yuxi is near Ilopango
+Shantou is near Bamus
+Nanyang is near Oraefajokull
+Kailu is near Michael
+Daan is near Westdahl
+Hulin is near Oku
+Arxan is near Poas
+Qingdao is near Ijen
+Anyang is near Ijen
+Baicheng is near Kell
+Ulanhot is near Santa
+Taizhou is near Semisopochnoi
+Yarumal is near Furnas
+Ciénaga is near SP
+Florencia is near Iliniza
+La Cruz is near Piton
+Bayamo is near Westdahl
+Palma Soriano is near Maly
+Ali Sabih is near Sakura-jima
+Odense is near 	Pyroclastic
+Reggane is near Acamarachi
+Reggane is near Fogo
+Reggane is near Oraefajokull
+Algeciras is near Egmont
+Algeciras is near SP
+Aksum is near Acamarachi
+Aksum is near Fogo
+Aksum is near Oraefajokull
+Bati is near Mahawu
+Paris is near Mahawu
+Nancy is near SP
+Omboué is near SP
+Ndende is near Ibu
+Moanda is near SP
+Newcastle is near Egmont
+Newcastle is near Telica
+Londonderry is near Bachelor
+Kourou is near Tangkubanparahu
+Roura is near Egmont
+Roura is near Telica
+Saint-Georges is near Cereme
+Cape Coast is near Longonot
+Bawku is near Cameroon
+Gibraltar is near SP
+Uummannaq is near Acamarachi
+Uummannaq is near Barrier
+Volos is near Nyiragongo
+Santa Rosa de Copán is near Moffett
+Osijek is near Acamarachi
+Osijek is near Barrier
+Osijek is near Fogo
+Osijek is near Oraefajokull
+Tatabánya is near Capulin
+Jambi is near Bolshoi
+Asansol is near Srednii
+Rajahmundry is near Arenal
+Bhiwandi is near Azufre
+Coimbatore is near SP
+Daman is near Acamarachi
+Daman is near Fogo
+Daman is near Oraefajokull
+Khammam is near Egmont
+Khammam is near SP
+Gorakhpur is near Westdahl
+Etawah is near Augustine
+Nellore is near Toba
+Tiruppur is near Griggs
+Kumbakonam is near SP
+Tiruchirappalli is near Gede
+Isfahan is near Toba
+Neyshabur is near Piton
+Venice is near Chimborazo
+Muroran is near Cameroon
+Nagasaki is near Oku
+Machakos is near Cameroon
+Kara Balta is near Katwe-Kikorongo
+Takéo is near SP
+Basseterre is near Bolshoi
+Musan is near Bamus
+Iksan is near Pagan
+Daejeon is near Nasu
+Eumseong is near Azuma
+Al Ahmadi is near Dubbi
+Port Orchard is near Erta
+Union Gap is near Nisyros
+Smyrna is near Iliniza
+Rhinelander is near Alaid
+Rhinelander is near Smirnov
+Plover is near Bulusan
+Hales Corners is near Diky
+Clarksburg is near Acamarachi
+Clarksburg is near Barrier
+Parkersburg is near Acamarachi
+Parkersburg is near Fogo
+Parkersburg is near Oraefajokull
+Bridgeport is near Chikurachki
+Charles Town is near Acamarachi
+Charles Town is near Fogo
+Charles Town is near Oraefajokull
+Nitro is near Ayelu
+Royal Palm Beach is near Acamarachi
+Royal Palm Beach is near Barrier
+Royal Palm Beach is near Fogo
+Royal Palm Beach is near Oraefajokull
+Palm Beach is near Fogo
+Palm Beach is near Mauna
+Palm Beach is near Oraefajokull
+Belle Glade is near Mauna
+Milton is near Muria
+Gainesville is near Yake-dake
+Lake Worth is near Alaid
+Lake Worth is near Smirnov
+Saint Augustine Beach is near Egmont
+Saint Augustine Beach is near SP
+Springfield is near Akademia
+Ocean City is near Acamarachi
+Ocean City is near Fogo
+Ocean City is near Oraefajokull
+Margate City is near Concepción
+Linwood is near Concepción
+Cliffside Park is near Rabaul
+Gallup is near Redoubt
+Alamogordo is near Hood
+Lewisville is near Kell
+Rio Grande City is near Moti
+Fulshear is near Okmok
+Carrollton is near Acamarachi
+Carrollton is near Fogo
+Carrollton is near Oraefajokull
+Royse City is near Acamarachi
+Royse City is near Barrier
+Royse City is near Oraefajokull
+Highland Village is near Ungaran
+Hempstead is near Miyake-jima
+Port Arthur is near SP
+Baytown is near Piton
+Celina is near Rausu
+Bridge City is near Bamus
+Garland is near Concepción
+Stephenville is near Aso
+La Porte is near Mahawu
+Rowlett is near Concepción
+Huntsville is near Lopevi
+Rockwall is near Concepción
+Slaton is near South
+Mont Belvieu is near SP
+Sachse is near Acamarachi
+Liberty is near Long
+Richardson is near Acamarachi
+Lake Dallas is near Crater
+Saint Gabriel is near Adwa
+Springhill is near Acamarachi
+Donaldsonville is near Arenal
+Baton Rouge is near Alcedo
+Franklin is near Cameroon
+Roxboro is near Adams
+King is near Ubinas
+Butner is near SP
+Elon is near Bachelor
+Rocky Mount is near Diamond
+Mebane is near Bachelor
+Chapel Hill is near Long
+Gibsonville is near Bachelor
+Morganton is near Acigöl-Nevsehir
+Winston-Salem is near Egmont
+Winston-Salem is near Telica
+Spring Lake is near Steller
+Sawmills is near Acatenango
+Greensboro is near Bachelor
+Kernersville is near Egmont
+Kernersville is near Telica
+Lewisville is near Egmont
+Lewisville is near Telica
+Carrboro is near Long
+Schuyler is near Kialagvik
+Elizabethton is near Long
+Jefferson City is near SP
+Greeneville is near Bachelor
+Crossville is near Roundtop
+Millington is near Visoke
+Erwin is near Bolshoi
+McKenzie is near SP
+Depew is near Tengger
+Valatie is near SP
+Attica is near Marsabit
+Ithaca is near Bachelor
+Spring Valley is near Methana
+Lancaster is near Tengger
+Sayre is near Kuwae
+Bridgeville is near Bulusan
+San Jacinto is near Three
+Encinitas is near Tenerife
+Palm Springs is near Lolo
+Brawley is near Acamarachi
+Brawley is near Fogo
+Brawley is near Oraefajokull
+Solana Beach is near Acamarachi
+Solana Beach is near Barrier
+Solana Beach is near Fogo
+Solana Beach is near Oraefajokull
+Greenfield is near Pagan
+Morgan Hill is near Reventador
+Gridley is near Hood
+Live Oak is near Fogo
+Live Oak is near Oraefajokull
+Grover Beach is near East
+Truckee is near Rudakov
+Poway is near Acamarachi
+Poway is near Fogo
+Poway is near Oraefajokull
+Coalinga is near Egmont
+Carson City is near Chimborazo
+Arvada is near Pelee
+Hoover is near Zavaritzki
+Decatur is near Pinatubo
+Rogers is near Gede
+Siloam Springs is near Cameroon
+Farmington is near Cotopaxi
+Trumann is near Okataina
+Elk Grove Village is near Acigöl-Nevsehir
+Elk Grove Village is near Adwa
+Freeport is near Unzen
+Deerfield is near Arenal
+Chicago is near Opala
+Beach Park is near Bolshoi
+Lisle is near Quill,
+Lindenhurst is near SP
+Rockton is near Bachelor
+Antioch is near Cameroon
+Roscoe is near Egmont
+Carol Stream is near Tengger
+Loves Park is near Griggs
+Winnetka is near Acatenango
+Lake Villa is near SP
+Harvard is near Bolshoi
+Carlinville is near Fogo
+Carlinville is near Oraefajokull
+North Chicago is near Cotopaxi
+Fox Lake is near Bolshoi
+Milledgeville is near Smirnov
+Augusta is near Savo
+Jesup is near Kuttara
+Warner Robins is near Zavaritzki
+Sandersville is near Acamarachi
+Sandersville is near Barrier
+Sandersville is near Fogo
+Sandersville is near Oraefajokull
+Jasper is near La
+Greensburg is near Sete
+Pleasant Hill is near Tao-Rusyr
+Carroll is near Babuyon
+Waterloo is near Griggs
+Stillwater is near Egmont
+Stillwater is near SP
+Sand Springs is near Egmont
+Sand Springs is near SP
+Tulsa is near SP
+Moore is near Ioto
+Enid is near Adams
+Cushing is near Diamond
+Coolidge is near Mauna
+Marana is near Michoacan-Guanajuato
+Tempe is near Zavaritzki
+Page is near Cereme
+Middleton is near Barren
+Rupert is near Long
+Baltimore is near Avachinsky
+Marlborough is near Shiretoko-Iwo-zan
+Medford is near Egmont
+Medford is near Telica
+Everett is near SP
+Revere is near Egmont
+Revere is near SP
+Chelsea is near SP
+Melrose is near Ijen
+Gardner is near Lereboleng
+Malden is near Egmont
+Malden is near Telica
+Napoleon is near Belknap
+Shaker Heights is near Aneityum
+Powell is near Krakatau
+Harrison is near Oraefajokull
+Caldwell is near Talang
+Fairfield is near Kell
+Sharonville is near Fogo
+Forest Park is near Fogo
+Pepper Pike is near Fuego
+Carlisle is near Merapi
+Loveland is near Acamarachi
+Loveland is near Fogo
+Loveland is near Oraefajokull
+Uhrichsville is near Shasta
+Mason is near Augustine
+Belpre is near Acamarachi
+Belpre is near Oraefajokull
+Richmond is near Acamarachi
+Richmond is near Fogo
+Richmond is near Oraefajokull
+Marshfield is near Ascensión
+Kennett is near Anatahan
+Crestwood is near Jefferson
+International Falls is near Hierro
+Cambridge is near Acamarachi
+Cambridge is near Barrier
+Cambridge is near Fogo
+Cambridge is near Oraefajokull
+Morris is near Avachinsky
+Morris is near Mauna
+Lino Lakes is near 	Stratovolcano
+Thief River Falls is near Vilyuchik
+Saint Joseph is near Acamarachi
+Saint Joseph is near Fogo
+Saint Joseph is near Oraefajokull
+South Haven is near Egmont
+Northville is near Egmont
+Northville is near Telica
+South Lyon is near Ijen
+Melvindale is near Coatepeque
+Highland Park is near SP
+Hamtramck is near SP
+Saginaw is near Reventador
+Livonia is near SP
+Harper Woods is near Bachelor
+Eaton Rapids is near Cotopaxi
+Grosse Pointe Woods is near Bachelor
+Sterling Heights is near Sakura-jima
+Inkster is near Coatepeque
+Inkster is near Unzen
+Mason is near Lereboleng
+Riverview is near Devils
+Grosse Pointe Farms is near SP
+Goose Creek is near Acamarachi
+Goose Creek is near Barrier
+Goose Creek is near Fogo
+Goose Creek is near Oraefajokull
+Summerville is near Acamarachi
+Summerville is near Barrier
+North Charleston is near Alaid
+Taylor Mill is near Udina
+Happy Valley is near Dieng
+Medford is near Cameroon
+Forest Grove is near Iliniza
+Cornelius is near Iliniza
+Fairview is near Acamarachi
+Fairview is near Fogo
+Fairview is near Oraefajokull
+Scappoose is near Kilimanjaro
+Milwaukie is near Dieng
+Talent is near Roundtop
+Hillsboro is near Iliniza
+593 cities are near a volcano
+6.805617106265969 % of people live near an active or potentially active volcano
