@@ -9,8 +9,8 @@ This is all assuming that the "scientific" statement "near" means in the danger 
 of an active or potentially active volcano, which I assumed to be a 50 mile radius. 
 
 ## Data
-All of my city location/population data can be found at (simplemaps)[https://simplemaps.com/data/world-cities]
-and all of my volcano data was grabbed from (OSU's Volcano World)[http://volcano.oregonstate.edu/volcano_table],
+All of my city location/population data can be found at [simplemaps](https://simplemaps.com/data/world-cities)
+and all of my volcano data was grabbed from [OSU's Volcano World](http://volcano.oregonstate.edu/volcano_table),
 but a file has been provided anyway. 
 
 Is the data good? I don't doubt the information, but the sample size is very low. 
@@ -56,4 +56,4 @@ Hillsboro is near Iliniza
 ```
 
 So... Is 6.8% about 1 in 12? I guess 6.8% and 8.3% are pretty close. But the
-real question is, do you live near an active or potentially active volcano?
+real question is, do *you* live near an active or potentially active volcano?
