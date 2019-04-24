@@ -55,5 +55,6 @@ Hillsboro is near Iliniza
 6.805617106265969 % of people live near an active or potentially active volcano
 ```
 
-So... Is 6.8% about 1 in 12? I guess 6.8% and 8.3% are pretty close. But the
-real question is, do *you* live near an active or potentially active volcano?
+So... Is 6.8% about 1 in 12? I guess 6.8% and 8.3% are pretty close. But really 
+6.8% is closer to 1 in 15. But the real question is, do *you* live near an 
+active or potentially active volcano?
